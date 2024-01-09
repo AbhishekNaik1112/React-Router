@@ -5,7 +5,7 @@ export default function Navbar() {
   return (
     <div className="bg-gray-800 text-white p-4 flex justify-between items-center">
       <Link to={'/'} className="text-2xl font-bold text-red-600 hover:text-gray-300">
-        Kalvium
+        Kalvium &#10084;
       </Link>
 
       <div className="mt-2">
